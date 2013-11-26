@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,liblib_iio_cmdsrv.so -o liblib_iio_cmdsrv.so CMakeFiles/lib_iio_cmdsrv.dir/lib_iio_cmdsrv.cpp.o -lanl 
