@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,_iio_swig.so -o _iio_swig.so CMakeFiles/_iio_swig.dir/iio_swigPYTHON_wrap.cxx.o -lpython2.7 ../lib/libgnuradio-iio.so -lboost_filesystem-mt -lboost_system-mt /usr/local/lib/libgnuradio-runtime.so -lanl -Wl,-rpath,/home/sdruser/git/customblocks/gr-iio_new/build/lib:/usr/local/lib: 

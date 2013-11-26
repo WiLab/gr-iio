@@ -1,0 +1,10 @@
+/home/sdruser/git/customblocks/gr-iio_new/build/swig/CMakeFiles/_iio_swig.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/swig/CMakeFiles/_iio_swig_doc_tag.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/swig/CMakeFiles/_iio_swig_swig_tag.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/lib/CMakeFiles/gnuradio-iio.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/lib/CMakeFiles/lib_iio_cmdsrv.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/python/CMakeFiles/pygen_python_f34e6.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/swig/CMakeFiles/pygen_swig_c6e82.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/lib/CMakeFiles/test-iio.dir
+/home/sdruser/git/customblocks/gr-iio_new/build/CMakeFiles/uninstall.dir

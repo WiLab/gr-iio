@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_f945d4847ad53e9fe0ca113e0c3c828f" kind="dir">
+    <compoundname>/home/sdruser/git/customblocks/gr-iio_new/include/iio/</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="fmcomms__sink_8h">fmcomms_sink.h</innerfile>
+    <innerfile refid="fmcomms__source_8h">fmcomms_source.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/sdruser/git/customblocks/gr-iio_new/include/iio/"/>
+  </compounddef>
+</doxygen>
